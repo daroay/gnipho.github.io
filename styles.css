@@ -313,7 +313,7 @@ footer p {
 
 @media (max-width: 900px) {
   .hero {
-    min-height: 680px;
+    min-height: 600px;
   }
 
   .hero__image {
@@ -327,7 +327,8 @@ footer p {
   }
 
   .hero__content {
-    padding-top: 118px;
+    padding-top: 92px;
+    padding-bottom: 78px;
   }
 
   h1 {
@@ -393,7 +394,12 @@ footer p {
   }
 
   .hero {
-    min-height: 620px;
+    min-height: 540px;
+  }
+
+  .hero__content {
+    padding-top: 78px;
+    padding-bottom: 72px;
   }
 
   .intro {
