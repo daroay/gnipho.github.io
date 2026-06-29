@@ -245,6 +245,7 @@ footer p {
 footer {
   padding: 34px 0 44px;
   border-top: 1px solid var(--line);
+  text-align: center;
 }
 
 footer p {
