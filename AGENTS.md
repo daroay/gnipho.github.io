@@ -1,6 +1,6 @@
 # Repository Guidelines
 
-This is a static GitHub Pages website for `gnipho.app`. There is no build step; GitHub Pages should publish the repository root directly.
+This is a static GitHub Pages website for `www.gnipho.app`. There is no build step; GitHub Pages should publish the repository root directly.
 
 ## Structure
 
@@ -14,7 +14,7 @@ This is a static GitHub Pages website for `gnipho.app`. There is no build step; 
 ## Editing Notes
 
 - Keep internal links relative, such as `privacy-policy/`, `../`, and `assets/...`, so the site works locally and on GitHub Pages.
-- Keep canonical and OpenGraph URLs rooted at `https://gnipho.app/`.
+- Keep canonical and OpenGraph URLs rooted at `https://www.gnipho.app/`.
 - Do not add a package manager or build pipeline unless the site gains functionality that requires one.
 - Prefer plain HTML and CSS for small content changes.
 
